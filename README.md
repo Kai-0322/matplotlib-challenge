@@ -1,1 +1,1 @@
-# matplotlib-challenge
+Finished this challenge with the help of these links https://github.com/JoeKell/PharmaceuticalDataPlots/blob/master/Pymaceuticals/pymaceuticals_final.ipynb and https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_starter.ipynb. I also got help from the Xpert Learning Assistant on the for loop that is used to display the interquartile range (IQR) and the outliers for each treatment group.
